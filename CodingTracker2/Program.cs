@@ -1,3 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C#!!! Hello");
-Console.WriteLine("From home");
+﻿void MyMethod()
+{
+    // Do Something
+}
+void MyMethod2()
+{
+    // Do Something
+}
+
+void MyMethod3()
+{
+    // Do Something
+}
+
+
+
+
